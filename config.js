@@ -1,5 +1,5 @@
 const nameGirl = 'Minh Phương';
-const giftUrl = 'http://nodemy.vn';
+const giftUrl = 'https://www.facebook.com/kieubichphuong.8';
 const eventName = 'Chúc Mừng 8/3';
 const titleCard = 'Gửi Minh Phương';
 const contentCard = 'Chúc em và mẹ ngày 8/3 hạnh phúc. Wish you all the best, always smile :)';
